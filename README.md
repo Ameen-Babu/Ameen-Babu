@@ -9,7 +9,7 @@
 - **Databases:** MySQL, MongoDB
 
 ### 🚀 Projects
-- **[Hydrox Music Bot](https://github.com/yourusername/hydrox-music-bot):** A feature-rich Discord music bot designed for high-quality music streaming with seamless integration.
+- **[Hydrox Music Bot](https://discord.com/oauth2/authorize?client_id=1112673469210034256&permissions=36842105936&integration_type=0&scope=bot+applications.commands):** A feature-rich Discord music bot designed for high-quality music streaming with seamless integration.
 - **SAMP Monitor Bot:** A Discord bot that monitors and provides real-time updates for a SAMP server.
 - **NGRP Server:** Managing and developing bots for the NGRP SAMP server.
 
