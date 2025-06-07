@@ -27,12 +27,20 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 # 📊 GitHub Stats:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameen-babu" alt="ameen-babu" /></a> </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Top Languages -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-babu&show_icons=true&locale=en&layout=compact" alt="ameen-babu" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-babu&show_icons=true&locale=en&layout=compact" alt="ameen-babu" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameen-babu&show_icons=true&locale=en" alt="ameen-babu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&" alt="ameen-babu" /></p>
+
+<!-- GitHub Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ameen-babu&show_icons=true&locale=en" alt="ameen-babu" />
+</p>
+
+<!-- GitHub Streak -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu" alt="ameen-babu" />
+</p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameen-babu&label=Profile%20views&color=0e75b6&style=flat" alt="ameen-babu" /> </p>
