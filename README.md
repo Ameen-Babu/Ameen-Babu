@@ -40,7 +40,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 
 <!-- GitHub Streak -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu" alt="ameen-babu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&" alt="ameen-babu" />
 </p>
 
 ---
