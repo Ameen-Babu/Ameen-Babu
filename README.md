@@ -30,7 +30,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 <h3 align="left">Connect with me:</h3>
 <!-- Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameen-babu&show_icons=true&locale=en&layout=compact" alt="ameen-babu" />
+  <img src="https://github-readme-stats-eight-delta-0hz48hfq8z.vercel.app/top-langs?username=ameen-babu&show_icons=true&locale=en&layout=compact" alt="ameen-babu" />
 </p>
 
 <!-- GitHub Stats -->
