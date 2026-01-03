@@ -35,7 +35,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 
 <!-- GitHub Stats -->
 <p>
-  <img src="https://github-readme-stats-eight-amber-36.vercel.app/?username=ameen-babu&show_icons=true&locale=en"" alt="ameen-babu" />
+  <img src="https://github-readme-stats-eight-delta-0hz48hfq8z.vercel.app/api?username=ameen-babu&show_icons=true" alt="ameen-babu" />
 </p>
 
 <!-- GitHub Streak -->
