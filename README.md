@@ -30,7 +30,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameen-babu&theme=light" alt="ameen-babu" /></a> </p>
 <!-- Top Languages -->
 <p>
-  <img src="https://github-readme-stats-eight-delta-0hz48hfq8z.vercel.app/api/top-langs/?username=ameen-babu&layout=donut" alt="ameen-babu" />
+  <img src="github-profile-trophy-tawny-iota.vercel.app/api/top-langs/?username=ameen-babu&layout=donut" alt="ameen-babu" />
 </p>
 
 <!-- GitHub Stats -->
