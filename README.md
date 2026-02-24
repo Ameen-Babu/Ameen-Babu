@@ -1,4 +1,4 @@
-# - About Me
+# About Me
 
  **Hello!** I'm a passionate developer with a love for crafting innovative and efficient software solutions. From building robust back-end systems to creating user-friendly front-end interfaces and developing engaging bots, I'm always eager to take on new challenges!
 
