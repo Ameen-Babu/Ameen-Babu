@@ -2,11 +2,11 @@
 
 👋 **Hello!** I'm a passionate developer with a love for crafting innovative and efficient software solutions. From building robust back-end systems to creating user-friendly front-end interfaces and developing engaging bots, I'm always eager to take on new challenges!
 
-### 💻 My Skills
-- **Programming Languages:** JavaScript, Node.js, Python
-- **Frameworks & Libraries:** Discord.js, Express.js
-- **Tools & Platforms:** Git, GitHub, Docker
-- **Databases:** MySQL, MongoDB
+- **Programming Languages:** JavaScript, Node.js, HTML, CSS
+- **Frameworks & Libraries:** React, Express.js, Bootstrap, TailwindCSS, Discord.js
+- **Tools & Platforms:** Postman, Git, GitHub, Docker, Vite
+- **Databases:** MongoDB, MySQL
+
 
 ### 🚀 Projects
 - **[Hydrox Music Bot](https://discord.com/oauth2/authorize?client_id=1112673469210034256&permissions=36842105936&integration_type=0&scope=bot+applications.commands):** A feature-rich Discord music bot designed for high-quality music streaming with seamless integration.
