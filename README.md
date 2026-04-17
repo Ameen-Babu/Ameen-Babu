@@ -29,8 +29,8 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 # GitHub Stats:
 
 <!-- GitHub Streak -->
-<p>
-  ![ameen-babu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&theme=react&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&theme=react&hide_border=true" />
 </p>
 
 ---
