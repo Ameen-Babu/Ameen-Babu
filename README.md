@@ -30,7 +30,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 
 <!-- GitHub Streak -->
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ameen-Babu&theme=dark&hide_border=false" alt="Ameen-Babu" />
+  ![ameen-babu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&theme=react&hide_border=true)
 </p>
 
 ---
