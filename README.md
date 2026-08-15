@@ -29,9 +29,7 @@ I'm always on the lookout for exciting collaborations, so feel free to reach out
 # GitHub Stats:
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameen-babu&theme=react&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ameen-babu&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameen-babu&label=Profile%20views&color=0e75b6&style=flat" alt="ameen-babu" /> </p>
